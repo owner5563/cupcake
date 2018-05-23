@@ -9,5 +9,14 @@
 }
 
 body {
-  background-color: pink
+  outline-color: invert;
+  text-align: center;
+  background-color: skyblue
+
+}
+
+
+ul  {
+  align-items: center;
+  align-content: center;
 }
